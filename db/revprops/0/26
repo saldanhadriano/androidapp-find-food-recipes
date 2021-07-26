@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 15
+Thomas Bellaver
+K 8
+svn:date
+V 27
+2016-10-22T20:31:12.242233Z
+K 7
+svn:log
+V 71
+adicionado listview e spinner no cadastro de quantidade de ingredientes
+END
